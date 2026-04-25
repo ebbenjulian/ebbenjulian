@@ -1,6 +1,6 @@
 # Hi, I'm Julian 👋
 
-I'm a student focused on building backend and embedded systems.
+I'm a student @ Han university of Applied Sciences focused on building backend and embedded systems.
 Currently working with **Python & C++** and exploring **Java & Kotlin**.
 
 ---
