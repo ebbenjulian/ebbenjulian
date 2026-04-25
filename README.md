@@ -29,4 +29,7 @@ Currently working with **Python & C++** and exploring **Java & Kotlin**.
 
 ## ⚡ Fun fact
 
-Big fan of the Gym
+* I built my first app before I understood how it worked
+* I once spent 3 hours debugging… and it was a missing semicolon
+* Dark mode is not optional
+* I like going to the Gym
